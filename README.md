@@ -1,4 +1,3 @@
-
 <br clear="both">
 
 <div align="center">
@@ -18,11 +17,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">0X48656C6C6F!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me:</h3>
 
 ###
 
@@ -30,7 +29,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
@@ -50,17 +49,38 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RecursiveError&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RecursiveError&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="250" alt="languages graph"  />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RecursiveError&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RecursiveError&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
-###
+<h3 align="left">Best projects:</h3>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; justify-content: center;">
+  <a href="https://github.com/RecursiveError/liquid_crystal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=liquid_crystal&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/RecursiveError/UniversalLCD">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=UniversalLCD&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/RecursiveError/FREERTOS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=FREERTOS&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/RecursiveError/drive_74HC595">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=drive_74HC595&theme=tokyonight" />
+  </a>
+</div>
+
+
 
 <p align="left"></p>
 
 ###
+
