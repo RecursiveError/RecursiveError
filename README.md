@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="Recursive-Error-banner-2.png"  />
+  <img height="" src="RecursiveError_banner_2.png"  />
 </div>
 
 ###
