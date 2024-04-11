@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="700px" src="RecursiveError_banner.png" border="0">
+  <img width="700px" src="RecursiveError_banner_2.png" border="0">
 </p>
 
 
