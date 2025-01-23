@@ -58,6 +58,11 @@
 <h3 align="left">Best projects:</h3>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; justify-content: center;">
+  
+  <a href="https://github.com/RecursiveError/ESPAT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=ESPAT&theme=tokyonight" />
+  </a>
+  
   <a href="https://github.com/RecursiveError/liquid_crystal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=liquid_crystal&theme=tokyonight" />
   </a>
@@ -68,10 +73,6 @@
 
   <a href="https://github.com/RecursiveError/FREERTOS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=FREERTOS&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/RecursiveError/drive_74HC595">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=drive_74HC595&theme=tokyonight" />
   </a>
 </div>
 
