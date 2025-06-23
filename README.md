@@ -54,24 +54,6 @@
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RecursiveError&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
-
-<h3 align="left">Best projects:</h3>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; justify-content: center;">
-  
-  <a href="https://github.com/RecursiveError/ESPAT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=ESPAT&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/RecursiveError/liquid_crystal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=liquid_crystal&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/RecursiveError/UniversalLCD">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=UniversalLCD&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/RecursiveError/FREERTOS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=FREERTOS&theme=tokyonight" />
   </a>
 </div>
