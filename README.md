@@ -54,9 +54,6 @@
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RecursiveError&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RecursiveError&repo=FREERTOS&theme=tokyonight" />
-  </a>
-</div>
 
 
 
